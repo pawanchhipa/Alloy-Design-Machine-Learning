@@ -18,7 +18,7 @@ This project explores the application of machine learning techniques to predict 
 
 ## Installation
 To run this project, you will need to have the following installed:
-- Python 3.x
+- Python 3.8
 - Jupyter Notebook
 - NumPy
 - Pandas
