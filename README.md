@@ -15,5 +15,3 @@ The dataset used in this project is from the research article:
 - **Model Training & Evaluation**: Implemented linear regression models with analytical and gradient descent solutions.
 - **Cross-Validation Analysis**: Used k-Fold Cross-Validation to evaluate model performance for various values of k.
 - **Performance Comparison**: Compared coefficients obtained from the analytical solution vs. gradient descent.
-
-## Project Structure
