@@ -15,7 +15,7 @@ setup(
     description="A package for alloy design and prediction using machine learning",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/pawanchhipa/alloy-ml-prediction",
+    url="https://github.com/pawanchhipa/Alloy-Design-Machine-Learning",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
