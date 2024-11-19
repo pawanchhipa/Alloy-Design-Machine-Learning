@@ -4,8 +4,8 @@ def main():
     # Initialize predictor
     predictor = AlloyPredictor()
     
-    # Load data
-    X, y = predictor.load_alloy_data('path/to/your/data.csv')
+    # Load data with the correct relative path
+    X, y = predictor.load_alloy_data('dataset/alloy-confp-train-data_v2.csv')
     
     # Perform k-fold analysis
     results = predictor.perform_kfold_analysis(X, y, n_splits=5)

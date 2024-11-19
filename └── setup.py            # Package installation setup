@@ -1,0 +1,11 @@
+
+## Installation
+To run this project, you will need to have the following installed:
+- Python 3.x
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn
+
+You can install the required packages using:
